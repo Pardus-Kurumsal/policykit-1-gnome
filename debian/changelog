@@ -1,3 +1,10 @@
+policykit-1-gnome (0.105-6pardus1) unstable; urgency=medium
+
+  * Add .drone.yml
+  * Update Turkish translations
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 02 Oct 2017 11:36:03 +0300
+
 policykit-1-gnome (0.105-6) unstable; urgency=medium
 
   * Move the binary back to /usr/lib/policykit-1-gnome.
